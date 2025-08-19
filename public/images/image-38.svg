@@ -1,0 +1,8 @@
+<!-- public/images/hero-bg.svg -->
+<svg width="100%" height="100%" viewBox="0 0 1440 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1440" height="700" fill="orange"/>
+<path d="M0 0L1440 700V0H0Z" fill="red" fill-opacity="0.1"/>
+<path d="M1440 0L0 700V0H1440Z" fill="yellow" fill-opacity="0.1"/>
+<circle cx="720" cy="350" r="200" fill="white" fill-opacity="0.05"/>
+<path d="M0 350C200 200 500 500 720 350C940 200 1240 500 1440 350V700H0V350Z" fill="orange" fill-opacity="0.2"/>
+</svg>
