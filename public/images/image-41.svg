@@ -1,0 +1,9 @@
+<!-- public/images/product-ayam-bakar.svg -->
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="200" height="200" fill="white"/>
+<path d="M100 180C144.183 180 180 144.183 180 100C180 55.8172 144.183 20 100 20C55.8172 20 20 55.8172 20 100C20 144.183 55.8172 180 100 180Z" fill="#F5DEB3" stroke="orange" stroke-width="4"/>
+<path d="M70 100C70 80 90 60 100 60C110 60 130 80 130 100C130 120 110 140 100 140C90 140 70 120 70 100Z" fill="#A0522D" stroke="#8B4513" stroke-width="2"/>
+<path d="M130 100L160 120L150 140L120 130" fill="#A0522D" stroke="#8B4513" stroke-width="2"/>
+<path d="M70 100L40 120L50 140L80 130" fill="#A0522D" stroke="#8B4513" stroke-width="2"/>
+<circle cx="100" cy="100" r="10" fill="red"/>
+</svg>
